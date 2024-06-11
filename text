@@ -1,2 +1,5 @@
 console.log("Hallo Welt!")
 Console.WriteLine("Hallo Welt");
+for(int i=0; i<=9; i++){
+console.log("elif");
+}
